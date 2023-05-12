@@ -1,1 +1,1 @@
-Hello, There seems to be some glitch with the messaging API. Any contribution to solve the matter is much appreciated.
+Hello, There seems to be some glitch with the messaging API. The application works fine on the emulator but it is unable to send the required message when used on a real mobile device. Any contribution to solve the matter is much appreciated.
